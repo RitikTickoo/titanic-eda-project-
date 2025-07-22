@@ -18,5 +18,5 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Jupyter Notebook
 
 ---
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ritik-tickoo-79a661238/)  
 💡 Feel free to explore or reuse this notebook for learning and practice.
